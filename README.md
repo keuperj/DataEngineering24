@@ -17,3 +17,5 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 ### Aufgaben
 * [Assignment 01: NumPy](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_1/assignment_01_numpy.ipynb) 
 
+### Optional (für alle die meinen sich zu langweilen...)
+* [NumPy EinSum Notation](https://ajcr.net/Basic-guide-to-einsum/)
