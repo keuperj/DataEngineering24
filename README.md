@@ -24,11 +24,15 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 ### Vorlesung
 * [Data Wrangling](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lecture_01_Data_Wrangling.ipynb)
 * [Lambda Operators](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lecture_02_Lambda_Operators.ipynb)
+* [GroupBy](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lecture_03_GroupBy.ipynb)
 
 ### Labor
 * [Pandas Dataframes ](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_01_pandas_DataFrame.ipynb)
 * [Pandas IO](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_02_pandas_IO.ipynb)
 * [Pandas Missing Data](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_03_pandas_MissingData.ipynb)
+* [Pandas Merge](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_04_pandas_MergeandJoin.ipynb)
+* [Pandas Reshape](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_05_pandas_reshape.ipynb)
+* [Pandas GroupBy](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_06_pandas_Group_by.ipynb)
 
 ### Aufgaben
 * [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_1.ipynb)  
