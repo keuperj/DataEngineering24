@@ -37,3 +37,13 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 ### Aufgaben
 * [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_1.ipynb)  
 * [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_2.ipynb)
+
+## Woche 3
+### Vorlesung
+* [MongoDB Intro](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_3/NoSQL_Mongo.ipynb)
+
+### Links
+* [PyMongo tutorial](https://pymongo.readthedocs.io/en/stable/tutorial.html)
+
+### Assignment
+* [MongoDB](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_3/mongodb.ipynb) 
