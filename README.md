@@ -35,8 +35,8 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [Pandas GroupBy](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lab_06_pandas_Group_by.ipynb)
 
 ### Aufgaben
-* [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_1.ipynb)  
-* [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_2.ipynb)
+* [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_1.ipynb) --> [Lösung](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/solution_1.ipynb) 
+* [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_2.ipynb)--> [Lösung](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/solution_2a.ipynb) 
 
 ## Woche 3
 ### Vorlesung
