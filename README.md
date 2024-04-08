@@ -50,7 +50,7 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 
 ## Woche 4
 ### Vorlesung
-* [Data Clollection](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Data_Collection.ipynb)
+* [Data Collection](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Data_Collection.ipynb)
 
 ### Aufgaben
 * [Rest API](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_REST_API.ipynb)
