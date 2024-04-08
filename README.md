@@ -47,3 +47,12 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 
 ### Assignment
 * [MongoDB](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_3/mongodb.ipynb) 
+
+## Woche 4
+### Vorlesung
+* [Data Clollection](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Data_Collection.ipynb)
+
+### Aufgaben
+* [Rest API](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_REST_API.ipynb)
+* [Web Scraping](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_Data_Scraping.ipynb)
+* [PDF Scraping](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_PDF_Scraping.ipynb)
