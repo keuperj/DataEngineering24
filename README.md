@@ -7,7 +7,10 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * Ein **Colab Tutorial** finden Sie [hier](https://colab.research.google.com/)
 
 
-## Woche 1
+
+<details>
+<summary> <H2> Woche 1 - Numpy </H2><BR></summary>
+
 ### Vorlesung
 * [Introduction to HDF5](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_1/lab_02_HDF5_intro.ipynb)
 
@@ -20,7 +23,11 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 ### Optional (für alle die meinen sich zu langweilen...)
 * [NumPy EinSum Notation](https://ajcr.net/Basic-guide-to-einsum/)
 
-## Woche 2
+</details>
+<details>
+<summary> <H2> Woche 2 - Data Wrangling </H2><BR></summary>
+
+
 ### Vorlesung
 * [Data Wrangling](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lecture_01_Data_Wrangling.ipynb)
 * [Lambda Operators](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Lecture_02_Lambda_Operators.ipynb)
@@ -38,7 +45,10 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_1.ipynb) --> [Lösung](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/solution_1.ipynb) 
 * [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/Assignment_2.ipynb)--> [Lösung](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_2/solution_2a.ipynb) 
 
-## Woche 3
+</details>
+<details>
+<summary> <H2> Woche 3 - NoSQL </H2><BR></summary>
+
 ### Vorlesung
 * [MongoDB Intro](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_3/NoSQL_Mongo.ipynb)
 
@@ -48,7 +58,10 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 ### Assignment
 * [MongoDB](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_3/mongodb.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_3/mongodb_solution.ipynb)
 
-## Woche 4
+</details>
+<details>
+<summary> <H2> Woche 4 - Data Scraping </H2><BR></summary>
+
 ### Vorlesung
 * [Data Collection](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Data_Collection.ipynb)
 
@@ -56,3 +69,12 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [Rest API](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_REST_API.ipynb)
 * [Web Scraping](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_Data_Scraping.ipynb)
 * [PDF Scraping](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_PDF_Scraping.ipynb)
+
+</details>
+
+## Woche 5 - Data Versioning
+
+### Labor
+* [DVC tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/dvc_tutorial.ipynb)
+* [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/Getting_Started_with_Deep_Lake.ipynb)
+
