@@ -75,7 +75,13 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 ## Woche 5 - Data Versioning
 
 ### Labor
+#### Git
+* [Git Trest](https://elearning.hs-offenburg.de/moodle/mod/quiz/view.php?id=350258)
+* [Git Kurs](https://elearning.hs-offenburg.de/moodle/course/view.php?id=6551#section-0)
+
+### DVC
 * [DVC tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/dvc_tutorial.ipynb)
 * [DVC VS-Code Plugin](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc)
+### DeepLake
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/Getting_Started_with_Deep_Lake.ipynb)
 
