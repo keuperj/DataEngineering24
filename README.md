@@ -76,8 +76,8 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 
 ### Labor
 #### Git
-* [Git Trest](https://elearning.hs-offenburg.de/moodle/mod/quiz/view.php?id=350258)
-* [Git Kurs](https://elearning.hs-offenburg.de/moodle/course/view.php?id=6551#section-0)
+* [Git Trest](https://elearning.hs-offenburg.de/moodle/mod/quiz/view.php?id=334808)
+* [Git Kurs](https://elearning.hs-offenburg.de/moodle/course/view.php?id=6765)
 
 ### DVC
 * [DVC tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/dvc_tutorial.ipynb)
