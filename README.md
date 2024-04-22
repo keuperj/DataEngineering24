@@ -71,8 +71,9 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [PDF Scraping](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_4/Assingment_PDF_Scraping.ipynb)
 
 </details>
+<details>
+<summary> <H2> Woche 5 - Data Versioning </H2><BR></summary>
 
-## Woche 5 - Data Versioning
 
 ### Labor
 #### Git
@@ -84,4 +85,16 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [DVC VS-Code Plugin](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc)
 ### DeepLake
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/Getting_Started_with_Deep_Lake.ipynb)
+</details>
 
+## Woche 6 - Experiment Tracking
+### TensorBoard
+* [TensorBoard with PyTorch](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_6/tensorboard_with_pytorch.ipynb)
+
+### MLFlow
+* [MLFlow Intro](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_6/MLFlow_Tutorial.ipynb)
+
+### WandB
+Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google Account to sign in... 
+* [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
+* [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
