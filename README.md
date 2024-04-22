@@ -92,7 +92,7 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [TensorBoard with PyTorch](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_6/tensorboard_with_pytorch.ipynb)
 
 ### MLFlow
-* [MLFlow Intro](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_6/MLFlow_Tutorial.ipynb)
+* [Assignment: MLFlow](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_6/MLFlow_Tutorial.ipynb)
 
 ### WandB
 Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google Account to sign in... 
