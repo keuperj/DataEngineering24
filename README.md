@@ -87,7 +87,9 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_5/Getting_Started_with_Deep_Lake.ipynb)
 </details>
 
-## Woche 6 - Experiment Tracking
+<details>
+<summary> <H2> Woche 6 - Experiment Tracking</H2><BR></summary>
+
 ### TensorBoard
 * [TensorBoard with PyTorch](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_6/tensorboard_with_pytorch.ipynb)
 
@@ -98,3 +100,23 @@ Material zur Vorlesung + Labor Data Engineering + MLOps an der HSO im SS24
 Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google Account to sign in... 
 * [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
 * [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
+
+</details>
+
+## Woche 7 - AutoML
+
+### Auto Scikit-Learn
+* [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
+* [AutoSK-Learn Demo](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_7/autosklearn.ipynb)
+
+### EvoTorch
+* [EvoTorch Docs](https://docs.evotorch.ai/v0.4.1/)
+* [EvoTorch trining MNIST example](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_7/evotorch_MNIST30K.ipynb)
+
+### NAS 
+* [NAS Bench-101](https://github.com/google-research/nasbench)
+* [NAS Bench-101 PyTorch Implementation](https://github.com/romulus0914/NASBench-PyTorch/tree/master)
+* [NNI NAS Framework](https://github.com/microsoft/nni/)
+* [NNI Demo](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_7/NNI_nas.ipynb)
+
+</details>
