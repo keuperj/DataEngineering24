@@ -103,7 +103,9 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 
 </details>
 
-## Woche 7 - AutoML
+<details>
+<summary> <H2> Woche 7 - AutoML</H2><BR></summary>
+
 
 ### Auto Scikit-Learn
 * [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
@@ -120,3 +122,21 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [NNI Demo](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_7/NNI_nas.ipynb)
 
 </details>
+
+## Week 8 - Model Management </H2><BR>
+  
+### Links
+* [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [TorchPackage API](https://pytorch.org/docs/stable/package.html)
+* [ONNX Docu](https://onnx.ai/onnx/intro/index.html)
+* [TorchDeploy Docu](https://github.com/mochangheng/pytorch-deploy)
+* [TorchServe Docu](https://github.com/pytorch/serve)
+* [Evidently Docu](https://github.com/evidentlyai/evidently/)
+
+### Labor
+* [MLFlow Model registry](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
+* [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/pip_tutorial.ipynb)
+* [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/torch_package.ipynb)
+* [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/ONNX.ipynb)
+* [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
+* [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/Evidently.ipynb)
