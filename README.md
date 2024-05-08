@@ -134,9 +134,11 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Evidently Docu](https://github.com/evidentlyai/evidently/)
 
 ### Labor
-* [MLFlow Model registry](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
 * [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/pip_tutorial.ipynb)
 * [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/torch_package.ipynb)
 * [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/ONNX.ipynb)
-* [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/Evidently.ipynb)
+
+### Assignments
+* [MLFlow Model registry](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
+* [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
