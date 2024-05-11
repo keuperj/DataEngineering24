@@ -122,6 +122,7 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [NNI Demo](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_7/NNI_nas.ipynb)
 
 </details>
+<details>
 <summary> <H2> Week 8 - Model Management </H2><BR></summary>
   
 ### Links
