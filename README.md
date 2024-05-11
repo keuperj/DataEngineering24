@@ -122,8 +122,7 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [NNI Demo](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_7/NNI_nas.ipynb)
 
 </details>
-
-## Week 8 - Model Management </H2><BR>
+<summary> <H2> Week 8 - Model Management </H2><BR></summary>
   
 ### Links
 * [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
@@ -142,3 +141,27 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 ### Assignments
 * [MLFlow Model registry](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
 * [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
+
+</details>
+
+## Week 9 - Linux Basics
+
+<img src="https://image.slidesharecdn.com/whylinux-090425042333-phpapp01/75/why-linux-2-2048.jpg?cb=1669158512" width=640>
+
+### Part I - Linux Shell
+* [Start here](https://github.com/keuperj/DataEngineering24/blob/main/week_9/01_Working_with_the_Linux_Shell/00_Intro.md)
+
+### Part II - Bash Scripting
+* [Start here](https://github.com/keuperj/DataEngineering24/blob/main/week_9/02_Intro_to_Bash_Scripting/001-introduction-to-bash.md)
+
+### Helpfull stuff
+* [E-Book Linux Shell](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793425/mod_resource/content/1/TenStepsToLinuxSurvival.pdf)
+* [E-Book Bash Scripting](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793426/mod_resource/content/1/introduction-to-bash-scripting-light.pdf)
+* [E-Book Introduction to Linux](https://tldp.org/LDP/intro-linux/intro-linux.pdf)
+* [collection of bash script examples](https://github.com/ruanyf/simple-bash-scripts)
+
+### Exercises
+* [Exercises](https://github.com/keuperj/DataEngineering24/blob/main/week_9/exercises.md)
+
+### Linux Shell in Colab
+* [Shell hack in Colab](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_9/Linux_Shell_in_Colab.ipynb)
