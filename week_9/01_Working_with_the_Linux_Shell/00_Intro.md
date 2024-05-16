@@ -32,7 +32,8 @@ From Windows, use ``Putty``
 * [Putty Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 
-
+## HS Offenburg Pool
+Start a "Linux Base Image" in the BW-Lehrpool environment.
 
 
 
