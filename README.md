@@ -170,7 +170,7 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 
 </details>
 
-## Week 8 - UI
+## Week 10 - User Interfaces
 
 ### IPWidgets
 * [Docu](https://ipywidgets.readthedocs.io/en/latest/)
