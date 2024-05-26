@@ -144,8 +144,9 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_8/MLFlow.ipynb)
 
 </details>
+<details>
+<summary> <H2> Week 9 - Linux Basics </H2><BR></summary>
 
-## Week 9 - Linux Basics
 
 <img src="https://image.slidesharecdn.com/whylinux-090425042333-phpapp01/75/why-linux-2-2048.jpg?cb=1669158512" width=640>
 
@@ -166,3 +167,22 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 
 ### Linux Shell in Colab
 * [Shell hack in Colab](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_9/Linux_Shell_in_Colab.ipynb)
+
+</details>
+
+## Week 8 - UI
+
+### IPWidgets
+* [Docu](https://ipywidgets.readthedocs.io/en/latest/)
+* [Tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_10/jupyter_widgets.ipynb) 
+* [Example](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_10/InteractiveML-Regression.ipynb) 
+
+### Voila
+* [Docu](https://voila.readthedocs.io/en/stable/)
+* [Example Gallery](https://voila-gallery.org/)
+* [Tutorial](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_10/voila_tutorial.ipynb) 
+
+### Gradio
+* [Docu](https://gradio.app/docs/)
+* [Tutorial](https://gradio.app/quickstart/) 
+* [Assignment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_10/Gradio_exercise.ipynb)
