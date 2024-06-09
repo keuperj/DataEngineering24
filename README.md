@@ -169,8 +169,8 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Shell hack in Colab](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_9/Linux_Shell_in_Colab.ipynb)
 
 </details>
-
-## Week 10 - User Interfaces
+<details>
+<summary> <H2> Week 10 - User Interfaces </H2><BR></summary>
 
 ### IPWidgets
 * [Docu](https://ipywidgets.readthedocs.io/en/latest/)
@@ -186,3 +186,13 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Docu](https://gradio.app/docs/)
 * [Tutorial](https://gradio.app/quickstart/) 
 * [Assignment](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_10/Gradio_exercise.ipynb)
+
+</details>
+
+## Week 11
+Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the ***XFCE Base Linux***.
+
+* [Anaconda Environments + Jupyter](week_11/assigment_1.md)
+* [Docker](week_11/assignment_2.md)
+
+
