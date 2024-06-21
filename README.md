@@ -189,6 +189,16 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 
 </details>
 
+## Woche 12
+### Lab
+* [Ray Tasks](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Tasks.ipynb)
+* [Ray Actors](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Actors.ipynb)
+* [Ray Tune](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Tune-with-MNIST.ipynb)
+
+### Assignment
+* [Assignment: Scraping with Ray](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/assignment.ipynb)
+
+
 ## Week 11
 Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the ***XFCE Base Linux***.
 
