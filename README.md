@@ -189,7 +189,16 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 
 </details>
 
-## Woche 12
+<details>
+<summary> <H2> Week 11 - Softwarestacks </H2><BR></summary>
+
+Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the ***XFCE Base Linux***.
+
+* [Anaconda Environments + Jupyter](week_11/assigment_1.md)
+* [Docker](week_11/assignment_2.md)
+</details>
+
+## Week 12
 ### Lab
 * [Ray Tasks](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Tasks.ipynb)
 * [Ray Actors](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Actors.ipynb)
@@ -199,10 +208,5 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Assignment: Scraping with Ray](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/assignment.ipynb)
 
 
-## Week 11
-Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the ***XFCE Base Linux***.
-
-* [Anaconda Environments + Jupyter](week_11/assigment_1.md)
-* [Docker](week_11/assignment_2.md)
 
 
