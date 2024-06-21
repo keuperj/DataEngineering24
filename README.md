@@ -204,8 +204,7 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 * [Ray Actors](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Actors.ipynb)
 * [Ray Tune](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/Ray-Tune-with-MNIST.ipynb)
 
-### Assignment
-* [Assignment: Scraping with Ray](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_12/assignment.ipynb)
+
 
 
 
